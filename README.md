@@ -8,11 +8,11 @@ install composer // run `composer install`
 
 
 Step 2 : 
-set project base_url in test/ImportCsvTest.php      #eg: $base_url = 'http://kemuri.test'
+set project base_url in `test/ImportCsvTest.php`      `eg: $base_url = 'http://kemuri.test'`
 
 
 Step 3:
-Run PHP test cases in project root folder.          # eg: using composer, run `vendor/bin/phpunit tests`
+Run PHP test cases in project root folder.          run `vendor/bin/phpunit tests`
 
 
 Step 4:
