@@ -4,7 +4,7 @@ A web tool to analyse stock max profit / minimise loss
 # Installation
 
 Step 1:
-install composer // run `composer install`
+run `composer install` inside project root directory
 
 
 Step 2 : 
@@ -24,4 +24,4 @@ run `install npm` inside app directory
 
 
 Step 6:
-run `npm run serve`inside app directory
+run `npm run serve` inside app directory
